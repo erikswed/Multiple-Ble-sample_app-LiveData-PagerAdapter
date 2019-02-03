@@ -1,0 +1,38 @@
+{
+  "project_info": {
+    "project_number": "577099542765",
+    "firebase_url": "https://sunluxextended-production.firebaseio.com",
+    "project_id": "sunluxextended-production",
+    "storage_bucket": "xx-production.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:577099542465:android:64a3ed654ae6bfa2",
+        "android_client_info": {
+          "package_name": "com.ble.multiple"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "577099542465-0ok4668cvioo6a3bn6hct54iug7i9o74.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ble.multiple",
+            "certificate_hash": "0a368cbeedf442b150d62b43c8447bd502a6fca7f"
+          }
+        },
+        {
+          "client_id": "577099542765-fdl4qaf649cch1divhnmc1utohfkc662c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEfYGz3j-UGDvJOUGgRCe_ZUedHSerk5hk"
+        }
+      ]
+    }
+  ],
+  "configuration_version": "1"
+}

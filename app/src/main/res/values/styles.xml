@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="@style/Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/default_300</item>
+        <item name="colorPrimaryDark">@color/default_600</item>
+        <item name="colorAccent">@color/default_700</item>
+        <item name="wallCollar">@color/default_100</item>
+        <item name="primaryTextColor">@color/default_400</item>
+        <item name="secondaryTextColor">@color/default_500</item>
+        <item name="dividerCustom">@color/default_900</item>
+        <item name="markerSpecial">@color/default_950</item>
+        <item name="progressColor">@color/default_200</item>
+        <item name="defaultWhite">@color/default_960</item>
+
+    </style>
+
+    <style name="AppTheme.NoActionBar" parent="@style/AppTheme">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="@style/ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="@style/ThemeOverlay.AppCompat.Light" />
+
+    <style name="Translucent_NoTitle" parent="@android:style/Theme.Black.NoTitleBar.Fullscreen">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:backgroundDimEnabled">true</item>
+    </style>
+
+</resources>

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MultipleBleActivity</string>
+
+    <string name="services_discovered">Services discovered</string>
+    <string name="services_undiscovered">Services undiscovered</string>
+    <string name="open_notification_failure">Open notification failure</string>
+    <string name="Ble_connected">Ble connected</string>
+    <string name="Ble_disconnected">Ble disconnected</string>
+    <string name="connection_closed">Disconnected from %1$s</string>
+    <string name="name">Name: %1$s</string>
+    <string name="type">Type: %1$s</string>
+    <string name="uuid">UUID: %1$s</string>
+
+</resources>

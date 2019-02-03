@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="default_100">#ff000000</color>  <!-- wallCollar -->
+    <color name="default_200">#ffff0000</color>  <!-- progressColor -->
+    <color name="default_300">#fff69626</color>  <!-- colorPrimary -->
+    <color name="default_600">#ff8d8d8d</color>  <!-- colorPrimaryDark -->
+    <color name="default_700">#fffeda60</color>    <!-- colorAccent -->
+    <color name="default_400">#ffffffff</color>  <!-- primary_text -->
+    <color name="default_500">#ff000000</color>  <!-- secondary_text -->
+    <color name="default_800">#45009688</color>  <!-- hint text color -->
+    <color name="default_900">#ffaaaaaa</color>  <!-- divider -->
+    <color name="default_950">#fffeda60</color>   <!-- marker -->
+    <color name="default_960">#ffffffff</color>   <!-- white-->
+</resources>

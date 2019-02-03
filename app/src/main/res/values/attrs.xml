@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <attr name="wallCollar" format="reference|color"/>
+    <attr name="primaryTextColor" format="reference|color"/>
+    <attr name="secondaryTextColor" format="reference|color"/>
+    <attr name="dividerCustom" format="reference|color"/>
+    <attr name="markerSpecial" format="reference|color"/>
+    <attr name="progressColor" format="reference|color"/>
+    <attr name="defaultWhite" format="reference|color"/>
+
+</resources>
