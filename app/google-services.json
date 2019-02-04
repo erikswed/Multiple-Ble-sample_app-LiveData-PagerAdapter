@@ -2,7 +2,7 @@
   "project_info": {
     "project_number": "577099542765",
     "firebase_url": "https://sunluxextended-production.firebaseio.com",
-    "project_id": "sunluxextended-production",
+    "project_id": "sanextended-production",
     "storage_bucket": "xx-production.appspot.com"
   },
   "client": [
@@ -29,7 +29,7 @@
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBEfYGz3j-UGDvJOUGgRCe_ZUedHSerk5hk"
+          "current_key": "AIzaSyBEfYGz3j-xxxxxxxxxxxxxxxx_ZUedHSerk5hk"
         }
       ]
     }
